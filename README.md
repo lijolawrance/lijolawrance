@@ -1,4 +1,4 @@
-Hello, I am @Lijo Lawrance. A developer who is intrested in doing lots of coding. A Data analyst who is enthistic in understanding and making meaningful data out of it. I have worked in multiple technologies. The best part which i consider is that all my codes are runing sucessfully in production :)
+Hello, I am @Lijo Lawrance. A developer who is interested in doing lots of coding. A Data analyst who is enthusiastic in understanding and making meaningful data out of it. I have worked in multiple technologies. The best part which I consider is that all my codes are runing sucessfully in production :)
 
 I am intrested in free opensource products and not being language agnostic. Welcome to work with you in all your ideas. We can achive things together.
 
