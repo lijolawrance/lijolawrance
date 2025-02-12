@@ -1,7 +1,5 @@
-Hello, I am @Lijo Lawrance. A developer who is interested in doing lots of coding. A Data analyst who is enthusiastic in understanding and making meaningful data out of it. I have worked in multiple technologies. The best part which I consider is that all my codes are runing sucessfully in production :)
+Hello, I'm Lijo Lawrance!
 
-I am intrested in free opensource products and not being language agnostic. Welcome to work with you in all your ideas. We can achive things together.
+I'm a data engineer with a passion for solving complex problems and implementing efficient solutions. I thrive on continuous learning in the ever-evolving data space and enjoy experimenting with new technologies.
 
-Started by github to place all teh projects which i am doing to trying do. Some may be half cooked/baked whatever. 
-
-Trying to create a data alaytics software in Python
+You'll find some of my projects here, where I've explored and learned along the way. Feel free to reuse them, and I welcome any suggestions for improvement!
